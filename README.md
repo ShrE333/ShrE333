@@ -1,92 +1,70 @@
 <div align="center">
-  <img src="assets/hero.svg" width="100%" alt="Shriram Dixit — I BUILD THINGS. Full-stack software, fintech, AI agents, security, cloud and robotics." />
+  <img src="assets/hero.svg" alt="Shriram Dixit — I BUILD THINGS. Software, systems, experiments, and occasional questionable ideas." width="100%" />
+
+  **[Projects](#things-ive-shipped)** &nbsp; · &nbsp; **[Tech stack](#the-toolbox)** &nbsp; · &nbsp; **[GitHub activity](#the-receipts)** &nbsp; · &nbsp; **[Get in touch](#say-hello)**
 </div>
 
-<p align="center">
-  <a href="https://github.com/ShrE333?tab=repositories"><b>Explore my code</b></a> &nbsp; / &nbsp;
-  <a href="https://www.linkedin.com/in/shriram-dixit-9470a1285/">LinkedIn</a> &nbsp; / &nbsp;
-  <a href="mailto:shdixit10@gmail.com">Let's talk</a>
-</p>
+I like building the **whole thing**: the interface people use, the API behind it, the database that remembers, the infrastructure that keeps it alive, and sometimes the AI or robot making it interesting.
 
-I build software from **the first sketch to the last deployment** — interfaces, APIs, databases, infrastructure, AI, and occasionally robots. The fun part is figuring out how all the pieces fit together.
+**Full-stack developer. Problem collector. Occasional hardware troublemaker.**
 
-Some of my work starts with a real problem. Some starts with *"what if?"* Either way, I like getting it to work.
+> Give me a problem. I'll probably build something.
 
-> **Give me a problem. I'll probably build something.**
+<a id="things-ive-shipped"></a>
 
-<img src="assets/section-builds.svg" alt="Field notes 01 — Selected builds" width="100%" />
+## 01 / Things I've shipped (and things I'm still building)
 
-<table>
-  <tr>
-    <td width="50%" valign="top">
-      <a href="https://github.com/ShrE333/IntentLock"><img src="assets/build-01.svg" alt="IntentLock" width="100%" /></a>
-      <p><b>Payments should ask permission.</b><br/>Agent-driven commerce with transaction authorization, controls, and auditable payment workflows.<br/><a href="https://github.com/ShrE333/IntentLock">Code & project →</a></p>
-    </td>
-    <td width="50%" valign="top">
-      <a href="https://github.com/ShrE333/Yojana-Pilot"><img src="assets/build-02.svg" alt="Yojana Pilot" width="100%" /></a>
-      <p><b>Less paperwork. More conversation.</b><br/>A conversational assistant for discovering and understanding public schemes.<br/><a href="https://github.com/ShrE333/Yojana-Pilot">Code & project →</a></p>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%" valign="top">
-      <a href="https://github.com/Omimore/cloud-based-anomoly-detection"><img src="assets/build-03.svg" alt="TracePilot" width="100%" /></a>
-      <p><b>When services misbehave, find out why.</b><br/>Anomaly detection, logs, and incident investigation for connected services.<br/><a href="https://github.com/Omimore/cloud-based-anomoly-detection">Code & project →</a></p>
-    </td>
-    <td width="50%" valign="top">
-      <a href="https://github.com/ShrE333/Fusion_2026"><img src="assets/build-04.svg" alt="GeoSathi" width="100%" /></a>
-      <p><b>A city that can report itself.</b><br/>Civic issue reporting through maps, messaging, and computer vision.<br/><a href="https://github.com/ShrE333/Fusion_2026">Code & project →</a></p>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%" valign="top">
-      <img src="assets/build-05.svg" alt="Falconex" width="100%" />
-      <p><b>Software that sees the factory floor.</b><br/>A vision platform connecting training, inference, cameras, and industrial automation. <i>Private work.</i></p>
-    </td>
-    <td width="50%" valign="top">
-      <img src="assets/build-06.svg" alt="Robotics Lab" width="100%" />
-      <p><b>Teaching robots to do ordinary things.</b><br/>Simulation, manipulation, imitation learning, and making sure the training data tells the truth. <i>Selected experiments.</i></p>
-    </td>
-  </tr>
-</table>
+*Six different problems. Six very different rabbit holes.*
 
-<img src="assets/section-other.svg" alt="Field notes 02 — Also, this stuff" width="100%" />
+| | The problem | The build |
+| :-- | :-- | :-- |
+| **01 · [IntentLock](https://github.com/ShrE333/IntentLock)** | How do you let an AI agent spend money without giving it a blank cheque? | **Fintech · Payments · Security** — intent-based authorization, spending limits, approvals and audit trails. |
+| **02 · [Yojana Pilot](https://github.com/ShrE333/Yojana-Pilot)** | Government schemes are complicated. What if applying felt more like a conversation? | **Full-stack · AI Agents** — conversational scheme discovery, eligibility reasoning and multilingual interfaces. |
+| **03 · [TracePilot](https://github.com/Omimore/cloud-based-anomoly-detection)** | Microservices fail in ways that are hard to see. | **Cybersecurity · Observability** — anomaly detection, incident investigation and service-level monitoring. |
+| **04 · [GeoSathi / Fusion](https://github.com/ShrE333/Fusion_2026)** | What if reporting a broken road were as easy as sending a photo? | **Maps · Computer Vision · Messaging** — location-aware civic reporting with vision-assisted analysis. |
+| **05 · Falconex AI** | Industrial vision shouldn't require stitching together ten separate tools. | **Platform Engineering · Edge AI** — model training, inference orchestration, multi-camera pipelines and PLC integration. *Private project.* |
+| **06 · Robotics Lab** | Teaching a robot isn't just collecting demonstrations. The data has to make sense. | **Robotics · Simulation · Learning** — Isaac Sim/Lab, manipulation and imitation-learning workflows. *Selected experiments.* |
 
-I don't stick to one lane. I've worked across **full-stack products, cloud deployment, fintech, cybersecurity, AI agents, computer vision, and robotics**. I care about the whole system — including what happens after the demo.
+<sub>Not everything is open source. Private/client work is described at a high level, without pretending there is public code.</sub>
 
-<img src="assets/stack.svg" alt="The stack is not the personality. The thing you ship is." width="100%" />
+<a id="the-toolbox"></a>
 
-<details>
-  <summary><b>Under the hood — tools I use</b></summary>
-  <br/>
+## 02 / The toolbox
 
-  | Area | Tools |
-  | :-- | :-- |
-  | Interfaces | React, Next.js, Flutter, TypeScript, JavaScript |
-  | Backend & data | Python, FastAPI, Flask, PostgreSQL, MongoDB, Supabase |
-  | Cloud & systems | Docker, Cloudflare Workers, GCP, Vercel, GitHub Actions |
-  | AI & vision | PyTorch, OpenCV, ONNX, YOLO, LLM APIs, Triton |
-  | Robotics & edge | Isaac Sim / Isaac Lab, Jetson, PLC integration |
+**A big stack is useful only if you know when *not* to use it.** These are languages, frameworks and platforms I've worked with across different projects—not a claim that every one is an expert-level specialty.
 
-</details>
+<img src="assets/toolbox.svg" width="100%" alt="Custom illustrated toolbox showing programming languages, app development, databases, cloud and AI/robotics technologies" />
 
-<details>
-  <summary><b>Off-screen work — research, patents & deployments</b></summary>
-  <br/>
+**Full inventory, grouped by what I actually use it for:**
 
-  - Industrial AI deployed across **60 workbenches in 3 plants**.
-  - **90% reported reduction** in quality-control costs in one visual-inspection application.
-  - **3 patent filings** across industrial AI, RGB–IR fusion, and assistive technology.
-  - Research presented/published at **ICSIAIML 2025**.
+| What I'm doing | What I reach for |
+| :-- | :-- |
+| **Languages & formats** | Python · JavaScript · TypeScript · C++ · SQL · HTML · CSS · Dart · Bash · PowerShell |
+| **Web & mobile** | React · Next.js · Flutter · REST APIs · MapLibre · Three.js |
+| **Backend** | FastAPI · Flask · Node.js · serverless APIs |
+| **Data & authentication** | PostgreSQL · Neon · MongoDB · Supabase |
+| **Infra & deployment** | Docker · Git · GitHub · GitHub Actions · GCP · Cloudflare Workers · Vercel · EasyPanel · Tailscale |
+| **AI & perception** | PyTorch · OpenCV · YOLO · ONNX · TensorRT · NVIDIA Triton · LLM APIs |
+| **Robotics & embedded** | NVIDIA Isaac Sim · Isaac Lab · LeRobot · NVIDIA Jetson · PLC / Modbus |
 
-  <small>These figures describe specific projects, not every system featured above.</small>
-</details>
+<a id="the-receipts"></a>
 
-<img src="assets/section-contact.svg" alt="Field notes 03 — Say hello" width="100%" />
+## 03 / The receipts
 
-I like ambitious ideas, hard engineering problems, and people who enjoy building things. If you have one of those, I'd love to hear about it.
+*Real GitHub activity, not made-up productivity scores.* These illustrations are refreshed by a GitHub Action from public repository metadata and GitHub's contribution calendar.
 
-<p align="center">
-  <a href="mailto:shdixit10@gmail.com"><b>EMAIL ME</b></a> &nbsp; · &nbsp;
-  <a href="https://www.linkedin.com/in/shriram-dixit-9470a1285/"><b>LINKEDIN</b></a> &nbsp; · &nbsp;
-  <a href="https://github.com/ShrE333?tab=repositories"><b>ALL REPOS</b></a>
-</p>
+<img src="assets/activity.svg" width="100%" alt="Live GitHub activity dashboard with public repository counts, contributions and technology breakdown" />
+
+<img src="assets/contributions.svg" width="100%" alt="GitHub contribution calendar redrawn as an isometric-looking skyline in cream, graphite and orange" />
+
+<sub>Public-data caveat: private activity is not included unless exposed by GitHub's contribution API. Language shares reflect public repository code, not proficiency. Chart generation source: [`scripts/generate_stats.py`](scripts/generate_stats.py).</sub>
+
+<a id="say-hello"></a>
+
+## 04 / Say hello
+
+I like **hard engineering problems, useful products, and strange ideas that might just work**. If you have one, let's talk.
+
+**[Email](mailto:shdixit10@gmail.com)** &nbsp; · &nbsp; **[LinkedIn](https://www.linkedin.com/in/shriram-dixit-9470a1285/)** &nbsp; · &nbsp; **[All repositories](https://github.com/ShrE333?tab=repositories)**
+
+<sub>Designed as a little corner of the internet. Built with Markdown, original SVG and a small Python script. No badge wall, no fake stats.</sub>
