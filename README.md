@@ -1,7 +1,7 @@
 <div align="center">
   <img src="assets/hero.svg" alt="Shriram Dixit — I BUILD THINGS. Software, systems, experiments, and occasional questionable ideas." width="100%" />
 
-  **[Projects](#things-ive-shipped)** &nbsp; · &nbsp; **[Tech stack](#the-toolbox)** &nbsp; · &nbsp; **[GitHub vibe](#the-receipts)** &nbsp; · &nbsp; **[Get in touch](#say-hello)**
+  **[Projects](#things-ive-shipped)** &nbsp; · &nbsp; **[Tech stack](#the-toolbox)** &nbsp; · &nbsp; **[Live activity](#the-receipts)** &nbsp; · &nbsp; **[Get in touch](#say-hello)**
 </div>
 
 I like building the **whole thing**: the interface people use, the API behind it, the database that remembers, the infrastructure that keeps it alive, and sometimes the AI or robot making it interesting.
@@ -51,13 +51,30 @@ I like building the **whole thing**: the interface people use, the API behind it
 
 ## 03 / The receipts
 
-*You wanted this section to feel more like the blue and pink graph references — but still belong to the same profile.*
+*Real contributions. Real commit patterns. Same odd little corner of the internet.*
 
-<img src="assets/github-snapshot.svg" width="100%" alt="Stylized GitHub snapshot dashboard in cream, charcoal, orange, blue and pink" />
+### THE BIG PICTURE / contribution history
 
-<img src="assets/activity-bar.svg" width="100%" alt="Pink contribution-style activity chart redesigned to match the profile theme" />
+<a href="https://github.com/ShrE333"><img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ShrE333&theme=default&bg_color=F2F0E8&title_color=22231F&text_color=22231F&border_color=22231F&icon_color=EA5A36&chart_color=6BA3D9" width="100%" alt="Live GitHub contribution history for ShrE333, rendered with custom blue accents" /></a>
 
-<sub>These are theme-matched visual summaries for the profile — made to look finished immediately, without placeholders or sync steps.</sub>
+### THE PINK ONE / when I actually code
+
+<a href="https://github.com/ShrE333"><img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=ShrE333&theme=default&bg_color=F2F0E8&title_color=22231F&text_color=22231F&border_color=22231F&icon_color=EA5A36&chart_color=E66AA7&utcOffset=5.5" width="100%" alt="Live commit activity by hour in India Standard Time for ShrE333, themed pink" /></a>
+
+### DIFFERENT TOOLS, DIFFERENT JOBS / language distribution
+
+<table>
+<tr>
+<td width="50%"><img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ShrE333&theme=default&bg_color=F2F0E8&title_color=22231F&text_color=22231F&border_color=22231F&icon_color=EA5A36&chart_color=EA5A36" width="100%" alt="Live top languages by repository" /></td>
+<td width="50%"><img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=ShrE333&theme=default&bg_color=F2F0E8&title_color=22231F&text_color=22231F&border_color=22231F&icon_color=EA5A36&chart_color=E66AA7" width="100%" alt="Live top languages by commits" /></td>
+</tr>
+</table>
+
+### THE BUILD RHYTHM / recent activity
+
+<a href="https://github.com/ShrE333"><img src="https://github-readme-activity-graph.vercel.app/graph?username=ShrE333&bg_color=F2F0E8&color=22231F&title_color=22231F&line=E66AA7&point=EA5A36&area=true&area_color=F4B6CD&hide_border=true&custom_title=THE+BUILD+RHYTHM" width="100%" alt="Live GitHub activity line graph for ShrE333 in pink and orange" /></a>
+
+<sub>All charts are generated from public GitHub activity by external services, not illustrative numbers. They update automatically, with caching and occasional provider outages. Commit timing is shown in UTC+05:30. Language charts describe code distribution, not proficiency; private contributions may be excluded.</sub>
 
 <a id="say-hello"></a>
 
@@ -67,4 +84,4 @@ I like **hard engineering problems, useful products, and strange ideas that migh
 
 **[Email](mailto:shdixit10@gmail.com)** &nbsp; · &nbsp; **[LinkedIn](https://www.linkedin.com/in/shriram-dixit-9470a1285/)** &nbsp; · &nbsp; **[All repositories](https://github.com/ShrE333?tab=repositories)**
 
-<sub>Designed as a little corner of the internet. Built with Markdown and original SVG. No badge wall, no fake terminal, no broken placeholders.</sub>
+<sub>Designed as a little corner of the internet. Built with Markdown, original SVG and a small Python script. No badge wall, no fake stats.</sub>
