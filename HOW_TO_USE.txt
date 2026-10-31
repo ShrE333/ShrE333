@@ -1,0 +1,8 @@
+I BUILD THINGS — GitHub profile README
+
+1. Extract the ZIP.
+2. Copy README.md and the entire assets/ directory to the ROOT of your ShrE333/ShrE333 repository.
+3. Commit and push. GitHub will show the README at github.com/ShrE333.
+4. All illustrations are editable SVG files.
+
+The proprietary projects intentionally do not link to private repositories. Check project summaries and the milestones against your latest work before publishing.
