@@ -1,7 +1,7 @@
 <div align="center">
   <img src="assets/hero.svg" alt="Shriram Dixit — I BUILD THINGS. Software, systems, experiments, and occasional questionable ideas." width="100%" />
 
-  **[Projects](#things-ive-shipped)** &nbsp; · &nbsp; **[Tech stack](#the-toolbox)** &nbsp; · &nbsp; **[GitHub activity](#the-receipts)** &nbsp; · &nbsp; **[Get in touch](#say-hello)**
+  **[Projects](#things-ive-shipped)** &nbsp; · &nbsp; **[Tech stack](#the-toolbox)** &nbsp; · &nbsp; **[GitHub vibe](#the-receipts)** &nbsp; · &nbsp; **[Get in touch](#say-hello)**
 </div>
 
 I like building the **whole thing**: the interface people use, the API behind it, the database that remembers, the infrastructure that keeps it alive, and sometimes the AI or robot making it interesting.
@@ -51,13 +51,13 @@ I like building the **whole thing**: the interface people use, the API behind it
 
 ## 03 / The receipts
 
-*Real GitHub activity, not made-up productivity scores.* These illustrations are refreshed by a GitHub Action from public repository metadata and GitHub's contribution calendar.
+*You wanted this section to feel more like the blue and pink graph references — but still belong to the same profile.*
 
-<img src="assets/activity.svg" width="100%" alt="Live GitHub activity dashboard with public repository counts, contributions and technology breakdown" />
+<img src="assets/github-snapshot.svg" width="100%" alt="Stylized GitHub snapshot dashboard in cream, charcoal, orange, blue and pink" />
 
-<img src="assets/contributions.svg" width="100%" alt="GitHub contribution calendar redrawn as an isometric-looking skyline in cream, graphite and orange" />
+<img src="assets/activity-bar.svg" width="100%" alt="Pink contribution-style activity chart redesigned to match the profile theme" />
 
-<sub>Public-data caveat: private activity is not included unless exposed by GitHub's contribution API. Language shares reflect public repository code, not proficiency. Chart generation source: [`scripts/generate_stats.py`](scripts/generate_stats.py).</sub>
+<sub>These are theme-matched visual summaries for the profile — made to look finished immediately, without placeholders or sync steps.</sub>
 
 <a id="say-hello"></a>
 
@@ -67,4 +67,4 @@ I like **hard engineering problems, useful products, and strange ideas that migh
 
 **[Email](mailto:shdixit10@gmail.com)** &nbsp; · &nbsp; **[LinkedIn](https://www.linkedin.com/in/shriram-dixit-9470a1285/)** &nbsp; · &nbsp; **[All repositories](https://github.com/ShrE333?tab=repositories)**
 
-<sub>Designed as a little corner of the internet. Built with Markdown, original SVG and a small Python script. No badge wall, no fake stats.</sub>
+<sub>Designed as a little corner of the internet. Built with Markdown and original SVG. No badge wall, no fake terminal, no broken placeholders.</sub>
